@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleAndroidApp</string>
+    <string name="welcome_message">Vítej v aplikaci jednoduchého čtení z jsonplaceholder.com</string>
+    <string name="refresh">Aktualizovat</string>
+    <string name="something_went_wrong_getting_photo_data">Něco se nepodařilo při stahování dat z webu: %1$s</string>
+    <string name="something_went_wrong_getting_photo_data_code">Chyba při stahování dat z webu, kód: %1$d</string>
+    <string name="data_loaded">Data načtena.</string>
+    <string name="data_updated">Data aktualizována.</string>
+    <string name="image_full_size">Obrázek s plnou velikostí</string>
+    <string name="image_thumbnail">Obrázek zmenšený</string>
+    <string name="photo_title_short">%1$s</string>
+    <string name="photo_title">Title: %1$s</string>
+    <string name="photo_id">Id: %1$d</string>
+    <string name="photo_album_id">Album Id: %1$d</string>
+    <string name="photo_url">Url: %1$s</string>
+    <string name="photo_thumbnail_url">Thumbnail Url: %1$s</string>
+</resources>
